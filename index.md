@@ -6,4 +6,4 @@
 
 # production
 - ウェブプログラミングⅠ(2022春期)で作成したウェブサイト
-- 「ベーカリー SakuSaku」<a href="https://rekiota.github.io/sakusaku-bakery.github.io/">
+- <a href="https://rekiota.github.io/sakusaku-bakery.github.io/">「ベーカリー SakuSaku」</a>
