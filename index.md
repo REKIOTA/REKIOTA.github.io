@@ -6,4 +6,4 @@
 
 # production
 - ウェブプログラミングⅠ(2022春期)で作成したウェブサイト
-- 
+- https://rekiota.github.io/sakusaku-bakery.github.io/
