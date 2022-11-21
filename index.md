@@ -15,4 +15,4 @@
   　・<a href="https://rekiota.github.io/bakery-sakusaku.github.io/">「ベーカリー SakuSaku」</a><br>
   　・<a href="https://rekiota.github.io/butatamahourennsou-recipe.github.io/">豚たまほうれん草のレシピ</a><br>
   　・<a href="https://rekiota.github.io/favorite-snacks-survey.github.io/survey.html">「好きなお菓子についての調査」フォーム</a><br>
-  　・<a href="https://rekiota.github.io/birthplace-introduction.github.io/>出身地について</a></p>
+  　・<a href="https://rekiota.github.io/birthplace-introduction.github.io/">出身地について</a></p>
